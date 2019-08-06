@@ -17,4 +17,4 @@ print("%s is 10, %s is 2.25, %s is I like turtles!" % (x,y,z))
 print("{} is 10,{} is 2.25, {} is I like turtles!".format(x,y,z))
 
 # Finally, print the same thing using an f-string
-print(f"{x} is 10, {y} is 2.25, {z} \"is I like turtles!\"")
+print(f"{x} is 10, {y} is 2.25, {z} is I like turtles!")
